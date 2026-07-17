@@ -18,3 +18,7 @@ One front door for the whole system:
 - **[Presentation Generator](https://mdiiacovo.github.io/csa-deck-generator/)** — spin up a GitHub-branded deck and deploy it to a live URL
 
 <sub>Everything is zero-dependency and served from GitHub Pages. Built with GitHub · <em>Plan Smarter · Code Faster · Ship Safer</em></sub>
+
+---
+
+<sub>🔎 Explore everything at **[mdiiacovo.github.io](https://mdiiacovo.github.io/)** — public, forkable, built with GitHub.</sub>
